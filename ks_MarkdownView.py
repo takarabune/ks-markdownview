@@ -1,7 +1,9 @@
 #-------------------------------------------------- 
 #   ks_MarkdownView for Pythonista 3
 #   2023-12-10
-#
+#   Robert Belton
+#   used with permission from mikaelho
+#   
 #   forked from
 #        MarkdownView by mikaelho
 #        https://github.com/mikaelho/pythonista-markdownview
