@@ -14,3 +14,5 @@ used with [permission](https://github.com/mikaelho/pythonista-markdownview/issue
   - hard coded default css 'a'
 
 Please read [original readme]((original)readme.md) for details of how it works]
+
+Used in my project [kanji sieve](https://github.com/takarabune/kanji_sieve)
