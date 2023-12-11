@@ -15,4 +15,5 @@ used with [permission](https://github.com/mikaelho/pythonista-markdownview/issue
 
 Please read [original readme]((original)readme.md) for details of how it works]
 
-Used in my project [kanji sieve](https://github.com/takarabune/kanji_sieve)
+Briefly used in my project [kanji sieve](https://github.com/takarabune/kanji_sieve)
+(removed in favour of something simpler in v1.16. But it may yet reappear to allow user to edit the output before saving.) 
